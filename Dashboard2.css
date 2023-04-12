@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+}
+.container{
+    display: flex;
+    height: 110%;
+
+}
+.lefts1{
+    width: 18%;
+    background-color: #001c40;
+   
+}
+.right1{
+    width: 82%;
+    height: 100%;
+  
+}
+*{
+    font-family: cursive;
+}
+
+.dashc{
+    width: 160px;
+    height: 40px;
+    background-color: #d8d8d8;
+    border-radius: 8px;
+    border: 2px solid #001c40;
+    margin-top: 40px;
+
+}
+
+.dash1{
+    display: flex;
+    gap: 310px;
+}
+
+#das12{
+    font-weight: bolder;
+    color: #001c40;
+    padding-left: 54px;
+    font-size: larger;
+    margin-top: 40px;
+}
+
+input{
+    width: 160px;
+    height: 40px;
+    border-radius: 8px;
+    border: 2px solid #001c40;
+    margin-top: 40px;
+}
+
+::placeholder{
+    color: #001c40;
+    font-family: cursive;
+    text-align: center;
+    
+    
+}
+
+h3{
+    padding-left: 50px;
+    color: #001c40;
+}
+
+#buku1{
+    margin-top: -30px;
+    margin-left: 77px;
+    
+}
+
+.dash5{
+    display: flex;
+    gap: 150px;
+    padding-left: 50px;
+}
+
+.dash0{
+    width: 250px;
+    height: 80px;
+    background-color: #d8d8d8;
+    border-radius: 8px;
+    
+}
+
+.dash6{
+    display: flex;
+    gap: 150px;
+    padding-left: 50px;
+}
+.dash7c{
+    padding-left: 470px; 
+}
+
+
+.dash9{
+    display: flex;
+   
+    padding-left: 50px;
+}
+
+.dash8b{
+    padding-left: 100px;
+}
+.dash8c{
+    padding-left: 285px;
+}
+a{
+    text-decoration: none;
+    color: #d8d8d8;
+}
+.lefts1{
+    text-align: center;
+    
+}
+#daso{
+    font-weight: lighter;
+    font-size: larger;
+}

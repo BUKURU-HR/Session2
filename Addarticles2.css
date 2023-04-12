@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+}
+.container{
+    display: flex;
+    height: 135%;
+
+}
+.lefts1{
+    width: 18%;
+    background-color: #001c40;
+   
+}
+.right1{
+    width: 82%;
+    height: 100%;
+  
+}
+*{
+    font-family: cursive;
+}
+
+#daso{
+    font-weight: lighter;
+    font-size: larger;
+}
+
+.dashc{
+    width: 160px;
+    height: 40px;
+    background-color: #d8d8d8;
+    border-radius: 8px;
+    border: 2px solid #001c40;
+    margin-top: 40px;
+
+}
+
+.dash1{
+    display: flex;
+    gap: 310px;
+}
+
+
+#das12{
+    font-weight: bolder;
+    color: #001c40;
+    padding-left: 54px;
+    font-size: larger;
+    margin-top: 40px;
+}
+
+
+input{
+    width: 160px;
+    height: 40px;
+    border-radius: 8px;
+    border: 2px solid #001c40;
+    margin-top: 40px;
+}
+
+::placeholder{
+    color: #001c40;
+    font-family: cursive;
+    text-align: center;
+    
+    
+}
+
+#buku1{
+    margin-top: -30px;
+    margin-left: 77px;
+    
+}
+
+
+a{
+    text-decoration: none;
+    color: #d8d8d8;
+}
+
+.lefts1{
+    text-align: center;
+    
+}
+#nepo1{
+    padding-left: 54px;
+}
+input.wert{
+   width: 1000px;
+}
+h2{
+    padding-left: 54px;
+}
+textarea{
+   width: 1000px;
+}
+.uplo{
+font-weight: bolder;
+font-size: larger;
+background-color: rgb(177, 130, 238);
+color: white;
+margin-top: -40px;
+margin-left: 850px;
+}
+select{
+    width: 1000px;
+    height: 40px;
+    border-radius: 8px;
+    border: 2px solid #001c40;
+}
+.save4{
+    
+font-weight: bolder;
+font-size: larger;
+background-color: rgb(177, 130, 238);
+color: white;
+
+
+}
