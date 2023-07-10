@@ -1,17 +1,17 @@
-
+*{
+  font-family: cursive;
+}
 .nav-list{
     display: flex;
     list-style: none;
     justify-content: space-between;
     margin-top: 30px;
-    text-decoration: none;
-    
+    text-decoration: none; 
 }
 
 a{
     text-decoration: none;
     color: #001c40;
-    font-family:  Helvetica;
   }
   #link1 {
   font-weight: bolder;
@@ -25,7 +25,6 @@ a{
   h1{
     margin-left: 38px;
     color: #001c40;
-    font-family: Arial, Helvetica, sans-serif;
     margin-bottom: 30px;
   }
   .detaim{
@@ -99,7 +98,7 @@ input{
   grid-column-start: 1; 
   grid-column-end: 5;
  color: #d8d8d8;
- font-family: Verdana, Geneva, Tahoma, sans-serif;
+
   
 
   
@@ -111,14 +110,15 @@ input{
   grid-column-start: 5; 
   grid-column-end: 7;
 color: #d8d8d8;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-  
 
-  
 }
 #poli1{
   padding-left: 100px;
 }
 h4{
   color: #d8d8d8;
+}#gte{
+   
+  color: #d8d8d8;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }

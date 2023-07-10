@@ -72,6 +72,7 @@
     grid-column-end: 7;
     text-align: center;
    margin-top: 15px;
+  
   }
 
   .content1{
@@ -138,7 +139,7 @@
   }
   #tu1{
     border-radius: 50%;
-    border: 3px solid #74c0fc;
+    
   }
   .projectd{
     display: grid;
@@ -512,4 +513,9 @@
   }
   .fa-solid fa-mobile-screen-button{
     font-weight: larger;
+  }
+  #gte{
+   
+    color: #d8d8d8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
